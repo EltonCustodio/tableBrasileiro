@@ -1,0 +1,29 @@
+body {
+	  background-image: url(escudo/estadio.png);
+} 
+
+caption{
+	color: white;
+}
+
+table{
+	position: absolute;
+	left: 25%;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:50%;
+	border-collapse: separate;
+	}
+
+table tbody{
+	text-align:center;
+	background-color:#2E82FF;
+}
+
+table thead{
+	background-color: blue;
+	
+}
+
+table tfoot{
+	text-align: center;
+	background-color: red;
